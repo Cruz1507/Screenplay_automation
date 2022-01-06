@@ -1,0 +1,4 @@
+runners/AutomatizacionPaginaDemoQaRunner.java
+ runners.AutomatizacionPaginaDemoQaRunner
+stepdefinitions/AutomatizacionPaginaDemoQaStepDefinition.java
+ stepdefinitions.AutomatizacionPaginaDemoQaStepDefinition
